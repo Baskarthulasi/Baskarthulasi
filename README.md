@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Baskarthulasi
+- 👀 I’m doing PhD
+- 🌱 I’m currently learning Data mining and Tuberculosis diseases
+- 💞️ I’m looking to define a customize a apriori algorithm based on TB dis.
+- 📫 how to achieve this
